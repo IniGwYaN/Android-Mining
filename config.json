@@ -1,20 +1,20 @@
 {
 	"pools":[
 	{
-		"name": "pool.verus.io",
-        "url": "stratum+tcp://pool.verus.io:9998",
+		"name": "ap.luckpool.net",
+        "url": "stratum+tcp://ap.luckpool.net:3956",
 		"timeout": 150,
 		"disabled": 0
 	},
 	{
-		"name": "verus.farm (Quipacorn)",
-        "url": "stratum+tcp://verus.farm:9999",
+		"name": "na.luckpool.net (USA)",
+        "url": "stratum+tcp://na.luckpool.net:3956",
 		"timeout": 60,
 		"time-limit": 600,
 		"disabled": 0
 	}],
 	
-	"user": "i81XL8ZpuCo9jmWLv5L5ikdxrGuHrrpQLz.Donator##",
+	"user": "R9Jsc7v88cKbzXGaCWjHQJpV37SibeANDa.VERUS_MINER",
 	"algo": "verus",
 	"threads": 8,
 	"cpu-priority": 1,
